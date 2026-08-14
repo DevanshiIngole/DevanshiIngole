@@ -1,356 +1,347 @@
 <div align="center">
 
-# DEVANSHI INGOLE
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=DEVANSHI%20INGOLE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&color=gradient"/>
 
-### AI / ML Engineer · Software Developer · Generative AI
+<br/>
 
-<p>
-  <a href="mailto:devanshingole7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/devanshi-ingole-b4b3a2283/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-111827?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/DevanshiIngole">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=DevanshiIngole&style=flat-square&color=6d28d9&label=PROFILE+VIEWS" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=AI+%2F+ML+Engineer;Generative+AI+%7C+Computer+Vision+%7C+NLP;Software+Developer+%7C+Backend+%26+Cloud;Building+Intelligent+Systems+with+Strong+Engineering+Foundations" />
 
-**Electronics & Telecommunication Engineering · SSGMCE · 2023–2027**
+<br/><br/>
+
+<a href="mailto:devanshingole7@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-A78BFA?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/devanshi-ingole-b4b3a2283/">
+<img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/DevanshiIngole">
+<img src="https://img.shields.io/badge/GITHUB-4C1D95?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ELECTRONICS%20%26%20TELECOMMUNICATION-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/SSGMCE-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/2023%E2%80%932027-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/MORSHI%2C%20MAHARASHTRA-312E81?style=flat-square"/>
 
 </div>
 
 ---
 
-## About
+## `01` — PROFILE
 
-I am a final-year **Electronics and Telecommunication Engineering student** focused on building practical systems across **Artificial Intelligence, Machine Learning, Generative AI, and Software Development**.
+### Building intelligent systems. Learning continuously. Engineering for impact.
 
-My experience covers the development lifecycle from **data processing and model development to API integration, deployment, and CI/CD**. I particularly enjoy working on problems involving **computer vision, NLP, RAG systems, and autonomous AI agents**.
+I’m **Devanshi Ingole**, a final-year Electronics and Telecommunication Engineering student working at the intersection of **Artificial Intelligence and Software Engineering**.
 
-I have built and evaluated systems using **TensorFlow, PyTorch, LangChain, LangGraph, FAISS, FastAPI, Flask, Docker, GitHub Actions, and AWS EC2**.
+My work spans **Deep Learning, Computer Vision, NLP, Generative AI, RAG systems, AI agents, backend development, and cloud deployment**.
 
-**Smart India Hackathon 2024 — National Finalist**
+I enjoy taking an idea from **model → application → API → deployment**, with an emphasis on measurable performance, clean engineering, and practical usability.
 
-### Currently Open To
+> **Smart India Hackathon 2024 — National Finalist**
 
-`AI / ML Engineering` · `Software Engineering` · `Generative AI` · `Full Stack Development` · `Data Science`
+<br/>
 
----
+<div align="center">
 
-## Engineering Snapshot
+|          |                                                 |
+| :------: | :---------------------------------------------: |
+| **96%+** |          Fruit Classification Accuracy          |
+|  **91%** |         Sign Language Detection mAP@0.5         |
+| **0.87** |       Brain Tumour Segmentation Dice Score      |
+|  **30%** | Reduction in Voting-App Authentication Failures |
 
-<table>
-<tr>
-<td width="50%">
-
-### AI / ML
-
-* Deep Learning
-* Computer Vision
-* NLP
-* Transfer Learning
-* Object Detection
-* Semantic Segmentation
-* Model Evaluation
-
-</td>
-<td width="50%">
-
-### Generative AI
-
-* RAG
-* LLM Applications
-* LangChain
-* LangGraph
-* Vector Search
-* AI Agents
-* Tool Calling
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Software Engineering
-
-* Python
-* C / C++
-* JavaScript
-* REST APIs
-* FastAPI
-* Flask
-* Streamlit
-
-</td>
-<td width="50%">
-
-### Cloud & DevOps
-
-* Docker
-* AWS EC2
-* Git
-* GitHub
-* GitHub Actions
-* CI/CD
-* Production Deployment
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## Technical Stack
+## `02` — ENGINEERING STACK
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
+`Python` · `C` · `C++` · `JavaScript` · `HTML` · `CSS`
 
-### AI / ML
+### Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+`TensorFlow` · `Keras` · `PyTorch` · `Scikit-learn` · `XGBoost`
 
-<br/>
+### Computer Vision
 
-`Scikit-learn` · `Keras` · `XGBoost` · `NLTK` · `YOLOv5`
+`OpenCV` · `YOLOv5` · `CNNs` · `ResNet50` · `VGG16` · `U-Net`
 
 ### Generative AI
 
 `LangChain` · `LangGraph` · `RAG` · `FAISS` · `ChromaDB` · `Hugging Face`
 
-### APIs & Development
+### LLM APIs
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,streamlit" />
+`OpenAI API` · `Gemini API` · `Groq API`
 
-### Cloud & DevOps
+### Backend & Applications
 
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions" />
+`FastAPI` · `Flask` · `Streamlit` · `Node.js`
 
 ### Data & Analytics
 
-`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Power BI` · `Microsoft Excel`
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Power BI` · `Excel`
+
+### Cloud & DevOps
+
+`Docker` · `AWS EC2` · `Git` · `GitHub` · `GitHub Actions`
 
 </div>
 
 ---
 
-## Selected Projects
+## `03` — SELECTED WORK
 
-### 01 · Document Q&A Chatbot
+### `01` Document Q&A Intelligence
 
 **RAG · LangChain · FAISS · FastAPI · Streamlit**
 
-A document intelligence application that enables semantic question answering over PDF and text documents using Retrieval-Augmented Generation.
+A Retrieval-Augmented Generation application that transforms PDF and text documents into a conversational knowledge interface.
 
-**What I built**
+**Architecture**
 
-* Designed a complete document ingestion and retrieval pipeline.
-* Stored document embeddings in a **FAISS vector store**.
-* Integrated LLM-based semantic question answering.
-* Implemented **multi-turn conversational memory**.
-* Evaluated responses using **RAGAS faithfulness and answer-relevancy metrics**.
-* Built a Streamlit interface with a FastAPI backend.
+`Documents → Processing → Embeddings → FAISS → Retrieval → LLM → Response`
 
-**Engineering Focus**
+**Engineering**
 
-`RAG` `Vector Search` `LLM Integration` `Backend APIs` `Evaluation`
+* Built a complete RAG pipeline for PDF/text ingestion.
+* Implemented semantic retrieval using **FAISS**.
+* Added multi-turn conversational memory.
+* Integrated OpenAI/Gemini APIs.
+* Evaluated the system using **RAGAS faithfulness and answer-relevancy metrics**.
+* Exposed the system through **FastAPI + Streamlit**.
+
+**Focus:** `RAG` `LLM Applications` `Vector Search` `API Engineering`
 
 ---
 
-### 02 · Real-Time Sign Language Detection
+### `02` Real-Time Sign Language Detection
 
 **YOLOv5 · PyTorch · OpenCV · Flask · Docker · AWS EC2**
 
-Real-time computer vision system for recognizing **26 hand-gesture classes**.
+A real-time computer vision application trained to recognize **26 hand gesture classes**.
 
-**Results**
+<div align="center">
 
-> **91% mAP@0.5**
+### `91% mAP@0.5`
 
-**What I built**
+</div>
 
-* Fine-tuned YOLOv5 on a custom sign-language gesture dataset.
-* Developed real-time webcam inference.
-* Built a Flask application for serving the model.
+**Engineering**
+
+* Fine-tuned YOLOv5 on a custom sign-language dataset.
+* Built real-time webcam inference.
+* Developed a Flask application around the model.
 * Containerized the application using Docker.
-* Created an automated **GitHub Actions CI/CD pipeline**.
-* Deployed the application on **AWS EC2**.
+* Automated deployment using **GitHub Actions**.
+* Deployed to **AWS EC2**.
 
-**Engineering Focus**
-
-`Computer Vision` `Object Detection` `Model Deployment` `Docker` `CI/CD` `AWS`
+**Focus:** `Computer Vision` `Object Detection` `Deployment` `CI/CD`
 
 ---
 
-### 03 · Brain Tumour Segmentation
+### `03` Brain Tumour Segmentation
 
-**PyTorch · U-Net · OpenCV · NumPy · BraTS**
+**U-Net · PyTorch · OpenCV · NumPy · BraTS**
 
-Medical imaging segmentation system for pixel-wise brain tumour detection from MRI scans.
+A semantic segmentation system designed to identify tumour regions in MRI scans.
 
-**Results**
+<div align="center">
 
-> **Dice Score: 0.87**
+### `0.87 Dice Score`
 
-**What I built**
+</div>
+
+**Engineering**
 
 * Implemented a U-Net encoder-decoder architecture from scratch.
-* Processed MRI/DICOM imaging data.
+* Performed DICOM preprocessing.
 * Applied patch-based augmentation.
 * Generated pixel-wise tumour segmentation masks.
 * Compared predictions against radiologist ground truth.
-* Visualized segmentation outputs for validation.
+* Visualized predictions for validation.
 
-**Engineering Focus**
-
-`Deep Learning` `Semantic Segmentation` `Medical Imaging` `PyTorch`
+**Focus:** `Medical Imaging` `Semantic Segmentation` `Deep Learning`
 
 ---
 
-### 04 · Autonomous AI Research Agent
+### `04` Autonomous AI Research Agent
 
-**LangGraph · LangChain · Groq API · Tavily · Streamlit**
+**LangGraph · LangChain · Tavily · Groq API · Streamlit**
 
-A multi-step autonomous research agent designed to perform multi-hop research using tool calling and stateful workflows.
+A stateful AI agent designed for multi-step, multi-hop research workflows.
 
-**What I built**
+**Architecture**
 
-* Designed a stateful agent workflow using **LangGraph**.
+`User → Agent → Tools → Web Search → Reasoning → Human Checkpoint → Report`
+
+**Engineering**
+
+* Built a stateful workflow using **LangGraph**.
 * Implemented a ReAct-style reasoning loop.
-* Integrated real-time web search.
-* Added human-in-the-loop checkpoints.
-* Built a Streamlit interface for agent interaction.
-* Exposed tool invocation logs through the application interface.
+* Added real-time web search tool calling.
+* Implemented human-in-the-loop checkpoints.
+* Built a Streamlit interface.
+* Displayed agent tool invocation and workflow information.
 
-**Engineering Focus**
-
-`AI Agents` `LLM Orchestration` `LangGraph` `Tool Calling` `Research Automation`
+**Focus:** `AI Agents` `LLM Orchestration` `Tool Calling` `LangGraph`
 
 ---
 
-### 05 · Fruit Classification System
+### `05` Fruit Classification System
 
-**TensorFlow · Keras · CNN · ResNet50**
+**CNN · ResNet50 · VGG16 · TensorFlow · Keras**
 
-Multi-class agricultural image classification system developed during my Deep Learning internship.
+A multi-class agricultural image classification system developed during my Deep Learning internship.
 
-**Results**
+<div align="center">
 
-> **96%+ validation accuracy · 15 classes**
+### `96%+ Validation Accuracy`   ·   `15 Classes`
 
-**What I built**
+</div>
 
-* Developed a CNN-based classification pipeline.
-* Applied transfer learning using ResNet50/VGG16.
-* Used data augmentation and hyperparameter tuning.
-* Applied early stopping during training.
-* Integrated the model into a lightweight real-time inference pipeline.
+**Engineering**
 
-**Engineering Focus**
+* Built a transfer-learning based classification pipeline.
+* Experimented with ResNet50/VGG16.
+* Applied data augmentation.
+* Performed hyperparameter tuning.
+* Used early stopping.
+* Integrated real-time inference for agricultural quality-control workflows.
 
-`Transfer Learning` `Computer Vision` `TensorFlow` `Model Optimization`
+**Focus:** `Transfer Learning` `Computer Vision` `Model Optimization`
 
 ---
 
-## Experience
+## `04` — EXPERIENCE
 
 ### Deep Learning Intern
 
-**Eastro Control System Pvt. Ltd. · Dec 2025 – Jan 2026**
+**Eastro Control System Pvt. Ltd.**
 
-* Developed a multi-class fruit classification system using CNNs and transfer learning.
-* Achieved **96%+ validation accuracy** across a 15-class agricultural dataset.
-* Applied data augmentation, hyperparameter tuning, and early stopping.
-* Integrated the trained model into a lightweight real-time inference pipeline for agricultural quality control.
+`DEC 2025 — JAN 2026`
 
-**Technologies:** `Python` `TensorFlow` `Keras` `ResNet50` `VGG16`
+Built deep-learning solutions for agricultural quality-control applications.
+
+* Developed a 15-class fruit classification system.
+* Achieved **96%+ validation accuracy**.
+* Applied augmentation, hyperparameter tuning, and early stopping.
+* Integrated the model into a real-time inference pipeline.
+
+`Python` `TensorFlow` `Keras` `ResNet50` `VGG16`
 
 ---
 
 ### Data Science Intern
 
-**Bharat Intern · Mar 2024 – Apr 2024**
+**Bharat Intern**
 
-* Developed an SMS Spam Detection model using NLP and Naive Bayes.
-* Achieved **95% accuracy** on spam classification.
-* Built a CNN-based Dog vs. Cat classifier using TensorFlow.
-* Achieved **97% validation accuracy** on the image classification task.
+`MAR 2024 — APR 2024`
 
-**Technologies:** `Python` `NLP` `Naive Bayes` `TensorFlow` `CNN`
+Worked across NLP and computer vision problems.
+
+* Developed SMS Spam Detection using NLP and Naive Bayes.
+* Achieved **95% accuracy**.
+* Developed a CNN-based Dog vs. Cat classifier.
+* Achieved **97% validation accuracy**.
+
+`Python` `NLP` `Naive Bayes` `TensorFlow` `CNN`
 
 ---
 
 ### Full Stack Web Development Intern
 
-**Edunet Foundation (AICTE) · Feb 2024**
+**Edunet Foundation — AICTE**
 
-* Built a secure online voting application.
+`FEB 2024`
+
+Developed a secure online voting application.
+
 * Implemented JWT authentication.
 * Added real-time result updates.
-* Optimized backend authentication logic.
+* Optimized authentication logic.
 * Reduced authentication failures by **30%**.
 
-**Technologies:** `JavaScript` `JWT` `Web Development` `Backend`
+`JavaScript` `JWT` `Backend Development` `Full Stack`
 
 ---
 
 ### Technology Analyst Simulation
 
-**Deloitte — Forage · Dec 2023**
+**Deloitte — Forage**
+
+`DEC 2023`
 
 * Conducted data analysis and risk assessments.
-* Delivered findings through interactive dashboards.
-* Supported simulated business decision-making workflows.
+* Created interactive dashboards.
+* Delivered findings for simulated business decision-making workflows.
 
-**Technologies:** `Data Analysis` `Risk Assessment` `Dashboards`
+`Data Analysis` `Risk Assessment` `Dashboards`
 
 ---
 
-## Impact & Recognition
+## `05` — RECOGNITION
 
 <div align="center">
 
-| Achievement                                  | Recognition                     |
-| :------------------------------------------- | :------------------------------ |
-| **Smart India Hackathon 2024**               | 🏆 **National Finalist**        |
-| **GDSC — SSGMCE**                            | Cyber Security Team · 2023–2024 |
-| **Accenture Data Analytics & Visualisation** | Data analytics job simulation   |
+### 🏆 Smart India Hackathon 2024
+
+**NATIONAL FINALIST**
+
+Presented an AI-driven solution to a real-world problem statement as part of India's largest government-backed innovation challenge.
+
+<br/>
+
+### Google Developer Student Clubs — SSGMCE
+
+**Cyber Security Team · 2023–2024**
+
+Recognized for contribution and commitment to the student developer community.
+
+<br/>
+
+### Accenture Data Analytics & Visualisation
+
+**Job Simulation**
+
+Analysed datasets and delivered data-driven business recommendations.
 
 </div>
 
 ---
 
-## AI / ML Capability Matrix
+## `06` — AI / ML CAPABILITIES
 
-| Area                 | Tools / Technologies                     |
-| :------------------- | :--------------------------------------- |
-| **Machine Learning** | Scikit-learn · XGBoost                   |
-| **Deep Learning**    | TensorFlow · Keras · PyTorch             |
-| **Computer Vision**  | OpenCV · YOLOv5 · CNNs                   |
-| **NLP**              | NLTK · Naive Bayes · Text Classification |
-| **Generative AI**    | LangChain · LangGraph · RAG              |
-| **Vector Search**    | FAISS · ChromaDB                         |
-| **LLM APIs**         | OpenAI · Gemini · Groq                   |
-| **Data**             | NumPy · Pandas · Matplotlib · Seaborn    |
-| **BI**               | Power BI · Excel                         |
-| **Backend**          | Flask · FastAPI · Node.js                |
-| **Deployment**       | Docker · AWS EC2                         |
-| **CI/CD**            | GitHub Actions                           |
+| Area                 | What I Work With                                                   |
+| :------------------- | :----------------------------------------------------------------- |
+| **Deep Learning**    | CNNs · Transfer Learning · ResNet50 · VGG16 · U-Net                |
+| **Computer Vision**  | Classification · Object Detection · Segmentation · OpenCV · YOLOv5 |
+| **NLP**              | Text Classification · Naive Bayes · NLTK                           |
+| **Generative AI**    | RAG · LangChain · LangGraph · LLM APIs                             |
+| **AI Agents**        | Stateful Graphs · ReAct Workflows · Tool Calling                   |
+| **Vector Retrieval** | FAISS · ChromaDB                                                   |
+| **Machine Learning** | Scikit-learn · XGBoost · Model Evaluation                          |
+| **Deployment**       | FastAPI · Flask · Docker · AWS EC2                                 |
+| **CI/CD**            | GitHub Actions                                                     |
+| **Analytics**        | Pandas · NumPy · Matplotlib · Power BI · Excel                     |
 
 ---
 
-## GitHub Analytics
+## `07` — GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevanshiIngole&show_icons=true&hide_border=true&theme=transparent&title_color=6d28d9&icon_color=6d28d9&text_color=374151"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DevanshiIngole&show_icons=true&hide_border=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=D1D5DB&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshiIngole&layout=compact&hide_border=true&theme=transparent&title_color=6d28d9&text_color=374151"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshiIngole&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=D1D5DB&bg_color=0D1117"/>
 
 </div>
 
@@ -358,25 +349,29 @@ Multi-class agricultural image classification system developed during my Deep Le
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DevanshiIngole&hide_border=true&theme=transparent&ring=6d28d9&fire=7c3aed&currStreakLabel=6d28d9"/>
+<img src="https://streak-stats.demolab.com?user=DevanshiIngole&hide_border=true&theme=dark&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA"/>
 
 </div>
 
 ---
 
-## Contributions
+## `08` — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevanshiIngole&theme=minimal&hide_border=true&area=true&color=6d28d9&line=6d28d9&point=7c3aed" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevanshiIngole&bg_color=0D1117&color=D1D5DB&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## Current Focus
+## `09` — CURRENT FOCUS
 
 ```yaml
+role:
+  - AI / ML Engineer
+  - Software Developer
+
 learning:
   - Advanced Generative AI
   - LLM Application Engineering
@@ -384,7 +379,7 @@ learning:
   - Production Machine Learning
 
 building:
-  - RAG-based applications
+  - RAG applications
   - Autonomous research agents
   - Computer vision systems
   - Production-ready APIs
@@ -407,28 +402,34 @@ open_to:
 
 ---
 
-## Connect
+## `10` — CONNECT
 
 <div align="center">
 
+### Let's build something meaningful.
+
+<br/>
+
 <a href="mailto:devanshingole7@gmail.com">
-<img src="https://img.shields.io/badge/Email-devanshingole7%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-DEVANSHINGOLE7%40GMAIL.COM-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/devanshi-ingole-b4b3a2283/">
-<img src="https://img.shields.io/badge/LinkedIn-Devanshi%20Ingole-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-DEVANSHI%20INGOLE-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/DevanshiIngole">
-<img src="https://img.shields.io/badge/GitHub-DevanshiIngole-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-DEVANSHIINGOLE-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+**AI · Engineering · Continuous Learning**
 
-<div align="center">
+<br/>
 
-**Building practical AI systems with strong engineering foundations.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient"/>
 
 </div>
