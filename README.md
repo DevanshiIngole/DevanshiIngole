@@ -1,286 +1,293 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=DEVANSHI%20INGOLE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+# DEVANSHI INGOLE
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=AI+%2F+ML+Engineer;Software+Developer;Generative+AI+%7C+RAG+%7C+AI+Agents;Full+Stack+Developer;Electronics+%26+Telecommunication+Engineer" alt="Typing SVG"/>
-</a>
+### AI / ML Engineer · Software Developer · Generative AI
 
-<br/>
+<p>
+  <a href="mailto:devanshingole7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/devanshi-ingole-b4b3a2283/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-111827?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DevanshiIngole">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=DevanshiIngole&style=flat-square&color=6d28d9&label=PROFILE+VIEWS" />
+</p>
 
-<img src="https://img.shields.io/badge/B.E.-Electronics%20%26%20Telecommunication-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/2023--2027-Engineering-4C1D95?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Morshi-Maharashtra-312E81?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="mailto:devanshingole7@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/devanshi-ingole-b4b3a2283/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/DevanshiIngole">
-<img src="https://img.shields.io/badge/GitHub-DevanshiIngole-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=DevanshiIngole&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+**Electronics & Telecommunication Engineering · SSGMCE · 2023–2027**
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I am a **final-year Electronics and Telecommunication Engineering student** focused on building reliable software systems across **AI/ML, Generative AI, data science, and full-stack development**.
+I am a final-year **Electronics and Telecommunication Engineering student** focused on building practical systems across **Artificial Intelligence, Machine Learning, Generative AI, and Software Development**.
 
-My experience spans the development lifecycle — from data preparation and model development to API engineering, deployment, CI/CD, and production-oriented experimentation.
+My experience covers the development lifecycle from **data processing and model development to API integration, deployment, and CI/CD**. I particularly enjoy working on problems involving **computer vision, NLP, RAG systems, and autonomous AI agents**.
 
-My core interests include **Deep Learning, NLP, Computer Vision, Retrieval-Augmented Generation, autonomous AI agents, backend engineering, and cloud deployment**.
+I have built and evaluated systems using **TensorFlow, PyTorch, LangChain, LangGraph, FAISS, FastAPI, Flask, Docker, GitHub Actions, and AWS EC2**.
 
-I enjoy transforming complex technical problems into practical, measurable solutions while continuously learning new technologies.
+**Smart India Hackathon 2024 — National Finalist**
 
-🏆 **Smart India Hackathon 2024 — National Finalist**
+### Currently Open To
 
-### Open To
-
-* AI / ML Engineering
-* Software Engineering
-* Generative AI & LLM Engineering
-* Full Stack Development
-* Data Science
-* AI Research
-* Open Source Collaboration
+`AI / ML Engineering` · `Software Engineering` · `Generative AI` · `Full Stack Development` · `Data Science`
 
 ---
 
-## Tech Stack
+## Engineering Snapshot
 
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css"/>
-</p>
+<table>
+<tr>
+<td width="50%">
 
 ### AI / ML
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
-</p>
+* Deep Learning
+* Computer Vision
+* NLP
+* Transfer Learning
+* Object Detection
+* Semantic Segmentation
+* Model Evaluation
 
-<p align="center">
-
-`Scikit-learn` • `XGBoost` • `Keras` • `YOLOv5` • `NLTK`
-
-</p>
+</td>
+<td width="50%">
 
 ### Generative AI
 
-<p align="center">
+* RAG
+* LLM Applications
+* LangChain
+* LangGraph
+* Vector Search
+* AI Agents
+* Tool Calling
 
-`LangChain` • `LangGraph` • `RAG` • `FAISS` • `ChromaDB` • `Hugging Face` • `OpenAI API` • `Gemini API` • `Groq API`
+</td>
+</tr>
 
-</p>
+<tr>
+<td width="50%">
 
-### Web & Backend
+### Software Engineering
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,streamlit"/>
-</p>
+* Python
+* C / C++
+* JavaScript
+* REST APIs
+* FastAPI
+* Flask
+* Streamlit
+
+</td>
+<td width="50%">
 
 ### Cloud & DevOps
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions"/>
-</p>
+* Docker
+* AWS EC2
+* Git
+* GitHub
+* GitHub Actions
+* CI/CD
+* Production Deployment
 
-### Data & BI
-
-<p align="center">
-
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Power BI` • `Microsoft Excel`
-
-</p>
-
----
-
-## AI / ML Expertise
-
-| Domain           | Proficiency  | Details                                                           |
-| ---------------- | ------------ | ----------------------------------------------------------------- |
-| Deep Learning    | Advanced     | CNNs, Transfer Learning, ResNet50, VGG16, TensorFlow, PyTorch     |
-| Computer Vision  | Advanced     | YOLOv5, OpenCV, Image Classification, Object Detection            |
-| NLP              | Advanced     | Text Classification, SMS Spam Detection, NLTK, Naive Bayes        |
-| Generative AI    | Advanced     | LangChain, LangGraph, RAG, FAISS, ChromaDB                        |
-| AI Agents        | Advanced     | Stateful graphs, ReAct workflows, tool calling, human-in-the-loop |
-| Machine Learning | Advanced     | Scikit-learn, XGBoost, model evaluation and tuning                |
-| Data Analytics   | Intermediate | Pandas, NumPy, Matplotlib, Seaborn, Power BI                      |
-| Deployment       | Intermediate | Docker, FastAPI, Flask, GitHub Actions, AWS EC2                   |
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Projects
+## Technical Stack
 
-<details>
-<summary><strong>📄 Document Q&A Chatbot — RAG + LangChain</strong></summary>
+<div align="center">
 
-<br/>
+### Languages
 
-A Retrieval-Augmented Generation system that ingests PDF and text documents and enables semantic question answering with multi-turn conversational memory.
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
 
-| Metric       | Details                                                         |
-| ------------ | --------------------------------------------------------------- |
-| Stack        | Python, LangChain, OpenAI/Gemini API, FAISS, FastAPI, Streamlit |
-| Scale        | PDF/Text document ingestion                                     |
-| Performance  | Evaluated using RAGAS metrics                                   |
-| Architecture | RAG + Vector Search + LLM                                       |
-| Impact       | Designed to reduce hallucination compared with a base LLM       |
+### AI / ML
 
-### Engineering Highlights
-
-* Built a complete RAG pipeline for document ingestion.
-* Implemented FAISS-based semantic retrieval.
-* Integrated LLM-powered question answering.
-* Added multi-turn conversational memory.
-* Evaluated faithfulness and answer relevancy using RAGAS.
-* Built FastAPI backend and Streamlit frontend.
-
-</details>
-
-<details>
-<summary><strong>🤟 Real-Time Sign Language Detection — YOLOv5 + AWS</strong></summary>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
 <br/>
 
-Real-time computer vision system for recognizing hand gestures across **26 sign-language classes**.
+`Scikit-learn` · `Keras` · `XGBoost` · `NLTK` · `YOLOv5`
 
-| Metric      | Details                                |
-| ----------- | -------------------------------------- |
-| Stack       | Python, YOLOv5, PyTorch, OpenCV, Flask |
-| Deployment  | Docker + AWS EC2                       |
-| CI/CD       | GitHub Actions                         |
-| Performance | 91% mAP@0.5                            |
-| Classes     | 26 hand gesture classes                |
+### Generative AI
 
-### Engineering Highlights
+`LangChain` · `LangGraph` · `RAG` · `FAISS` · `ChromaDB` · `Hugging Face`
 
-* Fine-tuned YOLOv5 on a custom sign-language dataset.
-* Built real-time webcam inference.
-* Developed Flask application.
+### APIs & Development
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,streamlit" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions" />
+
+### Data & Analytics
+
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Power BI` · `Microsoft Excel`
+
+</div>
+
+---
+
+## Selected Projects
+
+### 01 · Document Q&A Chatbot
+
+**RAG · LangChain · FAISS · FastAPI · Streamlit**
+
+A document intelligence application that enables semantic question answering over PDF and text documents using Retrieval-Augmented Generation.
+
+**What I built**
+
+* Designed a complete document ingestion and retrieval pipeline.
+* Stored document embeddings in a **FAISS vector store**.
+* Integrated LLM-based semantic question answering.
+* Implemented **multi-turn conversational memory**.
+* Evaluated responses using **RAGAS faithfulness and answer-relevancy metrics**.
+* Built a Streamlit interface with a FastAPI backend.
+
+**Engineering Focus**
+
+`RAG` `Vector Search` `LLM Integration` `Backend APIs` `Evaluation`
+
+---
+
+### 02 · Real-Time Sign Language Detection
+
+**YOLOv5 · PyTorch · OpenCV · Flask · Docker · AWS EC2**
+
+Real-time computer vision system for recognizing **26 hand-gesture classes**.
+
+**Results**
+
+> **91% mAP@0.5**
+
+**What I built**
+
+* Fine-tuned YOLOv5 on a custom sign-language gesture dataset.
+* Developed real-time webcam inference.
+* Built a Flask application for serving the model.
 * Containerized the application using Docker.
-* Implemented automated CI/CD with GitHub Actions.
-* Deployed on AWS EC2.
+* Created an automated **GitHub Actions CI/CD pipeline**.
+* Deployed the application on **AWS EC2**.
 
-</details>
+**Engineering Focus**
 
-<details>
-<summary><strong>🧠 Brain Tumour Segmentation — U-Net</strong></summary>
+`Computer Vision` `Object Detection` `Model Deployment` `Docker` `CI/CD` `AWS`
 
-<br/>
+---
 
-Medical imaging segmentation system using a U-Net encoder-decoder architecture for pixel-wise brain tumour segmentation.
+### 03 · Brain Tumour Segmentation
 
-| Metric      | Details                               |
-| ----------- | ------------------------------------- |
-| Stack       | Python, PyTorch, U-Net, OpenCV, NumPy |
-| Dataset     | BraTS                                 |
-| Performance | Dice Score: 0.87                      |
-| Task        | Semantic Segmentation                 |
+**PyTorch · U-Net · OpenCV · NumPy · BraTS**
 
-### Engineering Highlights
+Medical imaging segmentation system for pixel-wise brain tumour detection from MRI scans.
 
-* Implemented U-Net from scratch in PyTorch.
-* Performed DICOM preprocessing.
+**Results**
+
+> **Dice Score: 0.87**
+
+**What I built**
+
+* Implemented a U-Net encoder-decoder architecture from scratch.
+* Processed MRI/DICOM imaging data.
 * Applied patch-based augmentation.
 * Generated pixel-wise tumour segmentation masks.
-* Compared predictions with radiologist ground truth.
+* Compared predictions against radiologist ground truth.
+* Visualized segmentation outputs for validation.
 
-</details>
+**Engineering Focus**
 
-<details>
-<summary><strong>🤖 Autonomous AI Research Agent — LangGraph</strong></summary>
+`Deep Learning` `Semantic Segmentation` `Medical Imaging` `PyTorch`
 
-<br/>
+---
 
-A multi-step autonomous research agent using stateful workflows, real-time web search, tool calling, and human-in-the-loop checkpoints.
+### 04 · Autonomous AI Research Agent
 
-| Metric       | Details                                        |
-| ------------ | ---------------------------------------------- |
-| Stack        | Python, LangGraph, LangChain, Tavily, Groq API |
-| Interface    | Streamlit                                      |
-| Architecture | Stateful AI Agent                              |
-| Capabilities | Multi-hop research + tool calling              |
+**LangGraph · LangChain · Groq API · Tavily · Streamlit**
 
-### Engineering Highlights
+A multi-step autonomous research agent designed to perform multi-hop research using tool calling and stateful workflows.
 
-* Built a stateful agent using LangGraph.
-* Implemented ReAct-style reasoning workflow.
+**What I built**
+
+* Designed a stateful agent workflow using **LangGraph**.
+* Implemented a ReAct-style reasoning loop.
 * Integrated real-time web search.
 * Added human-in-the-loop checkpoints.
-* Built Streamlit interface for research interaction.
+* Built a Streamlit interface for agent interaction.
+* Exposed tool invocation logs through the application interface.
 
-</details>
+**Engineering Focus**
 
-<details>
-<summary><strong>🍎 Fruit Classification Using Deep Learning</strong></summary>
+`AI Agents` `LLM Orchestration` `LangGraph` `Tool Calling` `Research Automation`
 
-<br/>
+---
 
-Multi-class agricultural image classification system developed using CNN-based transfer learning.
+### 05 · Fruit Classification System
 
-| Metric      | Details                             |
-| ----------- | ----------------------------------- |
-| Stack       | Python, TensorFlow, Keras, ResNet50 |
-| Dataset     | 15 fruit categories                 |
-| Performance | 96%+ validation accuracy            |
-| Application | Agricultural quality control        |
+**TensorFlow · Keras · CNN · ResNet50**
 
-### Engineering Highlights
+Multi-class agricultural image classification system developed during my Deep Learning internship.
 
-* Developed multi-class image classification pipeline.
+**Results**
+
+> **96%+ validation accuracy · 15 classes**
+
+**What I built**
+
+* Developed a CNN-based classification pipeline.
 * Applied transfer learning using ResNet50/VGG16.
-* Used data augmentation.
-* Applied hyperparameter tuning and early stopping.
-* Integrated real-time inference pipeline.
+* Used data augmentation and hyperparameter tuning.
+* Applied early stopping during training.
+* Integrated the model into a lightweight real-time inference pipeline.
 
-</details>
+**Engineering Focus**
+
+`Transfer Learning` `Computer Vision` `TensorFlow` `Model Optimization`
 
 ---
 
 ## Experience
 
-### Deep Learning Intern — Eastro Control System Pvt. Ltd.
+### Deep Learning Intern
 
-**Dec 2025 – Jan 2026**
+**Eastro Control System Pvt. Ltd. · Dec 2025 – Jan 2026**
 
-* Built multi-class fruit classification system using CNNs and transfer learning.
-* Achieved **96%+ validation accuracy** across 15 agricultural classes.
-* Applied data augmentation and hyperparameter tuning.
-* Implemented early stopping.
-* Integrated model into a lightweight real-time inference pipeline.
+* Developed a multi-class fruit classification system using CNNs and transfer learning.
+* Achieved **96%+ validation accuracy** across a 15-class agricultural dataset.
+* Applied data augmentation, hyperparameter tuning, and early stopping.
+* Integrated the trained model into a lightweight real-time inference pipeline for agricultural quality control.
 
-`Python` `TensorFlow` `Keras` `CNN` `ResNet50` `Computer Vision`
-
----
-
-### Data Science Intern — Bharat Intern
-
-**Mar 2024 – Apr 2024**
-
-* Developed SMS Spam Detection using NLP and Naive Bayes.
-* Achieved **95% accuracy**.
-* Built CNN-based Dog vs. Cat classifier.
-* Achieved **97% validation accuracy**.
-
-`Python` `NLP` `Naive Bayes` `TensorFlow` `CNN`
+**Technologies:** `Python` `TensorFlow` `Keras` `ResNet50` `VGG16`
 
 ---
 
-### Full Stack Web Development Intern — Edunet Foundation (AICTE)
+### Data Science Intern
 
-**Feb 2024**
+**Bharat Intern · Mar 2024 – Apr 2024**
+
+* Developed an SMS Spam Detection model using NLP and Naive Bayes.
+* Achieved **95% accuracy** on spam classification.
+* Built a CNN-based Dog vs. Cat classifier using TensorFlow.
+* Achieved **97% validation accuracy** on the image classification task.
+
+**Technologies:** `Python` `NLP` `Naive Bayes` `TensorFlow` `CNN`
+
+---
+
+### Full Stack Web Development Intern
+
+**Edunet Foundation (AICTE) · Feb 2024**
 
 * Built a secure online voting application.
 * Implemented JWT authentication.
@@ -288,41 +295,52 @@ Multi-class agricultural image classification system developed using CNN-based t
 * Optimized backend authentication logic.
 * Reduced authentication failures by **30%**.
 
-`JavaScript` `JWT` `Backend` `Full Stack Development`
+**Technologies:** `JavaScript` `JWT` `Web Development` `Backend`
 
 ---
 
-### Technology Analyst Simulation — Deloitte (Forage)
+### Technology Analyst Simulation
 
-**Dec 2023**
+**Deloitte — Forage · Dec 2023**
 
 * Conducted data analysis and risk assessments.
 * Delivered findings through interactive dashboards.
 * Supported simulated business decision-making workflows.
 
-`Data Analysis` `Risk Assessment` `Dashboards`
+**Technologies:** `Data Analysis` `Risk Assessment` `Dashboards`
 
 ---
 
-## Achievements
+## Impact & Recognition
 
 <div align="center">
 
-| Recognition                                     | Details                                                                                   |
-| ----------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| 🏆 **Smart India Hackathon 2024**               | **National Finalist** — Presented an AI-driven solution to a real-world problem statement |
-| 🛡️ **GDSC SSGMCE**                             | Cyber Security Team member during 2023–2024 academic year                                 |
-| 📊 **Accenture Data Analytics & Visualisation** | Analysed datasets and delivered data-driven recommendations                               |
+| Achievement                                  | Recognition                     |
+| :------------------------------------------- | :------------------------------ |
+| **Smart India Hackathon 2024**               | 🏆 **National Finalist**        |
+| **GDSC — SSGMCE**                            | Cyber Security Team · 2023–2024 |
+| **Accenture Data Analytics & Visualisation** | Data analytics job simulation   |
 
 </div>
 
 ---
 
-## Certifications
+## AI / ML Capability Matrix
 
-<img src="https://img.shields.io/badge/GDSC-Certificate%20of%20Completion-6D28D9?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Accenture-Data%20Analytics%20%26%20Visualisation-4C1D95?style=for-the-badge&logo=accenture&logoColor=white"/>
+| Area                 | Tools / Technologies                     |
+| :------------------- | :--------------------------------------- |
+| **Machine Learning** | Scikit-learn · XGBoost                   |
+| **Deep Learning**    | TensorFlow · Keras · PyTorch             |
+| **Computer Vision**  | OpenCV · YOLOv5 · CNNs                   |
+| **NLP**              | NLTK · Naive Bayes · Text Classification |
+| **Generative AI**    | LangChain · LangGraph · RAG              |
+| **Vector Search**    | FAISS · ChromaDB                         |
+| **LLM APIs**         | OpenAI · Gemini · Groq                   |
+| **Data**             | NumPy · Pandas · Matplotlib · Seaborn    |
+| **BI**               | Power BI · Excel                         |
+| **Backend**          | Flask · FastAPI · Node.js                |
+| **Deployment**       | Docker · AWS EC2                         |
+| **CI/CD**            | GitHub Actions                           |
 
 ---
 
@@ -330,9 +348,9 @@ Multi-class agricultural image classification system developed using CNN-based t
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DevanshiIngole&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevanshiIngole&show_icons=true&hide_border=true&theme=transparent&title_color=6d28d9&icon_color=6d28d9&text_color=374151"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshiIngole&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshiIngole&layout=compact&hide_border=true&theme=transparent&title_color=6d28d9&text_color=374151"/>
 
 </div>
 
@@ -340,27 +358,17 @@ Multi-class agricultural image classification system developed using CNN-based t
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DevanshiIngole&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DevanshiIngole&hide_border=true&theme=transparent&ring=6d28d9&fire=7c3aed&currStreakLabel=6d28d9"/>
 
 </div>
 
 ---
 
-## GitHub Trophies
+## Contributions
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevanshiIngole&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevanshiIngole&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevanshiIngole&theme=minimal&hide_border=true&area=true&color=6d28d9&line=6d28d9&point=7c3aed" width="100%"/>
 
 </div>
 
@@ -369,27 +377,27 @@ Multi-class agricultural image classification system developed using CNN-based t
 ## Current Focus
 
 ```yaml
-Learning:
+learning:
   - Advanced Generative AI
   - LLM Application Engineering
   - AI Agent Architectures
   - Production Machine Learning
 
-Building:
-  - RAG-based AI systems
+building:
+  - RAG-based applications
   - Autonomous research agents
-  - Computer vision applications
+  - Computer vision systems
   - Production-ready APIs
 
-Exploring:
+exploring:
   - LangGraph
   - LLM orchestration
   - MLOps
   - Cloud AI systems
   - Open-source development
 
-Open To:
-  - AI/ML Engineering
+open_to:
+  - AI / ML Engineering
   - Software Engineering
   - Generative AI
   - Full Stack Development
@@ -399,20 +407,20 @@ Open To:
 
 ---
 
-## Connect With Me
+## Connect
 
 <div align="center">
 
 <a href="mailto:devanshingole7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Devanshi%20Ingole-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-devanshingole7%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/devanshi-ingole-b4b3a2283/">
-<img src="https://img.shields.io/badge/LinkedIn-Devanshi%20Ingole-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Devanshi%20Ingole-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/DevanshiIngole">
-<img src="https://img.shields.io/badge/GitHub-DevanshiIngole-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-DevanshiIngole-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -421,8 +429,6 @@ Open To:
 
 <div align="center">
 
-**Building intelligent systems where AI meets software engineering.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=120&section=footer" width="100%"/>
+**Building practical AI systems with strong engineering foundations.**
 
 </div>
